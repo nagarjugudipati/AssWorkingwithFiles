@@ -1,0 +1,8 @@
+D:\Mphasis\Assested Projects\ConAppWorkingwithFiles\ConAppWorkingwithFiles\bin\Debug\ConAppWorkingwithFiles.exe.config
+D:\Mphasis\Assested Projects\ConAppWorkingwithFiles\ConAppWorkingwithFiles\bin\Debug\ConAppWorkingwithFiles.exe
+D:\Mphasis\Assested Projects\ConAppWorkingwithFiles\ConAppWorkingwithFiles\bin\Debug\ConAppWorkingwithFiles.pdb
+D:\Mphasis\Assested Projects\ConAppWorkingwithFiles\ConAppWorkingwithFiles\obj\Debug\ConAppWorkingwithFiles.csproj.AssemblyReference.cache
+D:\Mphasis\Assested Projects\ConAppWorkingwithFiles\ConAppWorkingwithFiles\obj\Debug\ConAppWorkingwithFiles.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Assested Projects\ConAppWorkingwithFiles\ConAppWorkingwithFiles\obj\Debug\ConAppWorkingwithFiles.csproj.CoreCompileInputs.cache
+D:\Mphasis\Assested Projects\ConAppWorkingwithFiles\ConAppWorkingwithFiles\obj\Debug\ConAppWorkingwithFiles.exe
+D:\Mphasis\Assested Projects\ConAppWorkingwithFiles\ConAppWorkingwithFiles\obj\Debug\ConAppWorkingwithFiles.pdb
